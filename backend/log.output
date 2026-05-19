@@ -1,0 +1,155 @@
+{
+  "companyName": "TCS",
+  "overallRating": 3.8,
+  "totalReviews": 20,
+  "platformRatings": {
+    "Google": 3.9,
+    "Trustpilot": 3.7,
+    "Glassdoor": 3.9,
+    "Indeed": 3.8
+  },
+  "reviews": [
+    {
+      "platform": "Google",
+      "reviewerName": "Rahul Sharma",
+      "rating": 3.9,
+      "reviewText": "TCS has been an excellent experience overall. Their customer support team is very responsive and resolved my issues quickly. Highly recommended for anyone looking for reliable service.",
+      "reviewDate": "2026-05-10"
+    },
+    {
+      "platform": "Google",
+      "reviewerName": "Priya Mehta",
+      "rating": 3.9,
+      "reviewText": "Absolutely love working with TCS! The quality of their products and services is top-notch. I've been a customer for 3 years and never been disappointed.",
+      "reviewDate": "2026-05-05"
+    },
+    {
+      "platform": "Google",
+      "reviewerName": "Arjun Patel",
+      "rating": 3.9,
+      "reviewText": "TCS is decent but there is room for improvement. The product is good but the delivery was delayed by a week. Customer service was helpful once I reached out.",
+      "reviewDate": "2026-04-28"
+    },
+    {
+      "platform": "Google",
+      "reviewerName": "Sneha Kapoor",
+      "rating": 3.9,
+      "reviewText": "Good overall experience with TCS. The onboarding process was smooth and the team was professional. Would suggest better communication during the process.",
+      "reviewDate": "2026-04-20"
+    },
+    {
+      "platform": "Google",
+      "reviewerName": "Vikram Nair",
+      "rating": 3.9,
+      "reviewText": "TCS exceeded my expectations! Best decision I made to choose them. The entire process from start to finish was seamless. 5 stars without any doubt.",
+      "reviewDate": "2026-04-15"
+    },
+    {
+      "platform": "Trustpilot",
+      "reviewerName": "Emily Watson",
+      "rating": 3.7,
+      "reviewText": "I've been using TCS's services for 6 months. Overall the experience has been positive. Their platform is intuitive and the pricing is fair. A few minor glitches but nothing major.",
+      "reviewDate": "2026-05-12"
+    },
+    {
+      "platform": "Trustpilot",
+      "reviewerName": "James O'Brien",
+      "rating": 3.7,
+      "reviewText": "Mixed experience with TCS. Some things work great, others need a lot of improvement. The support team is responsive but the product itself has some bugs that have been unresolved for months.",
+      "reviewDate": "2026-05-02"
+    },
+    {
+      "platform": "Trustpilot",
+      "reviewerName": "Sophie Anderson",
+      "rating": 3.7,
+      "reviewText": "Outstanding service from TCS! I had a complex issue and their team went above and beyond to solve it. This is what customer service should look like. Truly impressed.",
+      "reviewDate": "2026-04-25"
+    },
+    {
+      "platform": "Trustpilot",
+      "reviewerName": "Marco Rossi",
+      "rating": 3.7,
+      "reviewText": "TCS delivers on its promises. The product quality is consistent and the team is professional. Delivery could be faster but the quality makes up for it.",
+      "reviewDate": "2026-04-18"
+    },
+    {
+      "platform": "Trustpilot",
+      "reviewerName": "Aisha Johnson",
+      "rating": 3.7,
+      "reviewText": "Average experience. TCS has potential but needs to work on its user interface and communication. The core product is solid but the experience around it needs polish.",
+      "reviewDate": "2026-04-10"
+    },
+    {
+      "platform": "Glassdoor",
+      "reviewerName": "Current Employee",
+      "rating": 3.9,
+      "reviewText": "Working at TCS has been a great experience. The work culture is collaborative and management is supportive. Good work-life balance and the compensation is competitive. Highly recommend for software engineers.",
+      "reviewDate": "2026-05-08"
+    },
+    {
+      "platform": "Glassdoor",
+      "reviewerName": "Former Employee",
+      "rating": 3.9,
+      "reviewText": "TCS has a lot of potential but management needs serious improvement. The leadership style is micromanaging and growth opportunities are limited. Left after 2 years due to lack of career progression.",
+      "reviewDate": "2026-04-30"
+    },
+    {
+      "platform": "Glassdoor",
+      "reviewerName": "Senior Developer",
+      "rating": 3.9,
+      "reviewText": "Great technical team at TCS. The engineering culture is strong with a focus on quality code and best practices. Leadership genuinely cares about employee development. Flexible remote work policy is a big plus.",
+      "reviewDate": "2026-04-22"
+    },
+    {
+      "platform": "Glassdoor",
+      "reviewerName": "Product Manager",
+      "rating": 3.9,
+      "reviewText": "TCS is a decent place to work. The product vision is clear and the team is talented. However, processes can be slow and there is sometimes a disconnect between departments.",
+      "reviewDate": "2026-04-14"
+    },
+    {
+      "platform": "Glassdoor",
+      "reviewerName": "Marketing Analyst",
+      "rating": 3.9,
+      "reviewText": "Positive experience overall at TCS. The company invests in its employees through training and development. Benefits package is comprehensive. Culture could be more inclusive at senior levels.",
+      "reviewDate": "2026-04-06"
+    },
+    {
+      "platform": "Indeed",
+      "reviewerName": "Software Engineer",
+      "rating": 3.8,
+      "reviewText": "TCS is a solid employer. Good salary and benefits. The technical work is interesting and challenging. Management could be more transparent about company direction but overall a good place to grow.",
+      "reviewDate": "2026-05-14"
+    },
+    {
+      "platform": "Indeed",
+      "reviewerName": "Customer Support Rep",
+      "rating": 3.8,
+      "reviewText": "Working at TCS was okay. The job itself is manageable but the workload can be overwhelming during peak periods. Training was minimal and I had to figure out a lot on my own.",
+      "reviewDate": "2026-05-01"
+    },
+    {
+      "platform": "Indeed",
+      "reviewerName": "Operations Lead",
+      "rating": 3.8,
+      "reviewText": "I've worked at TCS for 4 years and it has been a rewarding journey. The company values innovation and hard work is recognized and rewarded. The team is diverse and talented.",
+      "reviewDate": "2026-04-26"
+    },
+    {
+      "platform": "Indeed",
+      "reviewerName": "Sales Executive",
+      "rating": 3.8,
+      "reviewText": "TCS has a great product to sell which makes the job easier. However, targets can be unrealistic at times and the pressure from management can be stressful. Commission structure is fair though.",
+      "reviewDate": "2026-04-16"
+    },
+    {
+      "platform": "Indeed",
+      "reviewerName": "Data Analyst",
+      "rating": 3.8,
+      "reviewText": "Really enjoyed my time at TCS. Great learning opportunities and the data infrastructure is modern. Management is approachable and open to new ideas. Would recommend for those starting their data career.",
+      "reviewDate": "2026-04-08"
+    }
+  ],
+  "lastUpdated": "2026-05-19T06:00:24.652Z",
+  "fromCache": false
+}
